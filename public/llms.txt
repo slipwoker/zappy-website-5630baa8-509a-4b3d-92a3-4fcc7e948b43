@@ -1,0 +1,57 @@
+# טיול AI — Generative Engine Optimization Map
+
+> A טכנולוגיה ותיירות - AI ותכנון טיולים business.
+
+---
+
+## Pages
+
+### דף הבית
+https://ai-5630baa8.zappy5.app
+תכננו את הטיול המושלם עם AI חכם! גלו אטרקציות, מלונות ומסעדות מומלצות בהתאמה אישית. התחילו עכשיו!
+
+### השירותים שלנו
+https://ai-5630baa8.zappy5.app/services
+גלו את מגוון השירותים שלנו: תכנון טיול מותאם אישית עם AI, המלצות לאטרקציות, מלונות, טיסות ומסעדות. פתרונות מתקדמים למטיילים!
+
+### אודות
+https://ai-5630baa8.zappy5.app/about
+למדו על טיול AI - האפליקציה החדשנית לתכנון טיולים בחו״ל. גלו איך אנחנו משנים את עולם התיירות עם טכנולוגיית AI מתקדמת!
+
+### צור קשר
+https://ai-5630baa8.zappy5.app/contact
+יש שאלות על תכנון הטיול שלכם? צרו קשר עם צוות טיול AI ונעזור לכם למצוא את האטרקציות והפתרונות המושלמים!
+
+## Legal & Policy
+
+### Privacy Policy
+https://ai-5630baa8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ai-5630baa8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ai-5630baa8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About טיול AI
+טיול AI is a business in the טכנולוגיה ותיירות - AI ותכנון טיולים industry.
+
+## Target Audience
+מטיילים המחפשים תכנון טיולים מותאם אישית
+
+## Industry
+טכנולוגיה ותיירות - AI ותכנון טיולים
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://ai-5630baa8.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ai-5630baa8.zappy5.app/robots.txt
